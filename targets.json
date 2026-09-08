@@ -1,9 +1,16 @@
 [
   {
-    "asin": "B0DYTF8L2W",
-    "keywords": ["wireless earbuds", "bluetooth earbuds"],
-    "domain": "www.amazon.com",
-    "zipcode": "10041",
+    "asin": "B0GR633TZ4",
+    "keywords": ["beetroot capsules"],
+    "domain": "www.amazon.co.uk",
+    "zipcode": "M30 9HW",
+    "pages": 2
+  },
+  {
+    "asin": "B0HCCMJCY9",
+    "keywords": ["magnesium glycinate"],
+    "domain": "www.amazon.co.uk",
+    "zipcode": "M30 9HW",
     "pages": 2
   }
 ]
