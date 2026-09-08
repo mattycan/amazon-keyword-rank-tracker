@@ -16,6 +16,8 @@ Tracked with [amazon-keyword-rank-tracker](https://github.com/pangolinfoapi/amaz
 
 | checked_at (UTC) | ASIN | keyword | position | organic | page |
 |---|---|---|---|---|---|
+| 2026-09-08T15:23:15+00:00 | B0GR633TZ4 | beetroot capsules | — | — | — |
+| 2026-09-08T15:23:15+00:00 | B0HCCMJCY9 | magnesium glycinate | — | — | — |
 | 2026-09-08T15:19:28+00:00 | B0GR633TZ4 | beetroot capsules | — | — | — |
 | 2026-09-08T15:19:28+00:00 | B0HCCMJCY9 | magnesium glycinate | — | — | — |
 | 2026-09-08T15:02:36+00:00 | B0GR633TZ4 | beetroot capsules | — | — | — |
