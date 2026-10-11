@@ -1,4 +1,4 @@
-# Amazon Keyword Rank Report — 2026-10-10
+# Amazon Keyword Rank Report — 2026-10-11
 
 Tracked with [amazon-keyword-rank-tracker](https://github.com/pangolinfoapi/amazon-keyword-rank-tracker) using the [Pangolinfo Scrape API](https://www.pangolinfo.com).
 
@@ -16,6 +16,8 @@ Tracked with [amazon-keyword-rank-tracker](https://github.com/pangolinfoapi/amaz
 
 | checked_at (UTC) | ASIN | keyword | position | organic | page |
 |---|---|---|---|---|---|
+| 2026-10-11T06:41:04+00:00 | B0GR633TZ4 | beetroot capsules | — | — | — |
+| 2026-10-11T06:41:04+00:00 | B0HCCMJCY9 | magnesium glycinate | — | — | — |
 | 2026-10-10T06:33:51+00:00 | B0GR633TZ4 | beetroot capsules | — | — | — |
 | 2026-10-10T06:33:51+00:00 | B0HCCMJCY9 | magnesium glycinate | — | — | — |
 | 2026-10-09T01:11:38+00:00 | B0GR633TZ4 | beetroot capsules | — | — | — |
