@@ -1,4 +1,4 @@
-# Amazon Keyword Rank Report — 2026-11-15
+# Amazon Keyword Rank Report — 2026-11-16
 
 Tracked with [amazon-keyword-rank-tracker](https://github.com/pangolinfoapi/amazon-keyword-rank-tracker) using the [Pangolinfo Scrape API](https://www.pangolinfo.com).
 
@@ -16,6 +16,8 @@ Tracked with [amazon-keyword-rank-tracker](https://github.com/pangolinfoapi/amaz
 
 | checked_at (UTC) | ASIN | keyword | position | organic | page |
 |---|---|---|---|---|---|
+| 2026-11-16T07:29:57+00:00 | B0GR633TZ4 | beetroot capsules | — | — | — |
+| 2026-11-16T07:29:57+00:00 | B0HCCMJCY9 | magnesium glycinate | — | — | — |
 | 2026-11-15T07:24:43+00:00 | B0GR633TZ4 | beetroot capsules | — | — | — |
 | 2026-11-15T07:24:43+00:00 | B0HCCMJCY9 | magnesium glycinate | — | — | — |
 | 2026-11-14T07:15:02+00:00 | B0GR633TZ4 | beetroot capsules | — | — | — |
@@ -214,5 +216,3 @@ Tracked with [amazon-keyword-rank-tracker](https://github.com/pangolinfoapi/amaz
 | 2026-08-11T03:00:02+00:00 | B0DYTF8L2W | bluetooth earbuds | — | — | — |
 | 2026-08-10T03:06:59+00:00 | B0DYTF8L2W | wireless earbuds | — | — | — |
 | 2026-08-10T03:06:59+00:00 | B0DYTF8L2W | bluetooth earbuds | — | — | — |
-| 2026-08-09T02:57:56+00:00 | B0DYTF8L2W | wireless earbuds | — | — | — |
-| 2026-08-09T02:57:56+00:00 | B0DYTF8L2W | bluetooth earbuds | — | — | — |
